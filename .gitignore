@@ -1,0 +1,11 @@
+# Word lists & stats
+wordle-words.txt
+stats.csv
+
+# Binaries
+*.exe
+*.exe~
+*.out
+
+# Editor temp
+*.swp
